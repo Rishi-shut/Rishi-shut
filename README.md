@@ -7,4 +7,3 @@ Hi, I'm Mrigank Singh 👋
 
 🌱 Currently learning advanced concepts in [a technology, e.g., TypeScript or Go].
 
-📫 You can connect with me on [LinkedIn]([https://in.linkedin.com/in/mrigank-singh-9215512a8 ]) or via Email [mriganksingh7890@gmail.com].
