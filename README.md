@@ -1,16 +1,159 @@
-Hi, I'm Mrigank Singh 👋 <br/>
-🚀 Passionate developer specializing in Full-Stack Development .<br/>
-💻 My tech stack includes JavaScript, Python, React, Node.js, Flask, and more.<br/>
-✨ I love building clean, efficient applications and solving complex problems.<br/>
+<!--
+ ███╗   ███╗██████╗ ██╗ ██████╗  █████╗ ███╗   ██╗██╗  ██╗
+ ████╗ ████║██╔══██╗██║██╔════╝ ██╔══██╗████╗  ██║██║ ██╔╝
+ ██╔████╔██║██████╔╝██║██║  ███╗███████║██╔██╗ ██║█████╔╝ 
+ ██║╚██╔╝██║██╔══██╗██║██║   ██║██╔══██║██║╚██╗██║██╔═██╗ 
+ ██║ ╚═╝ ██║██║  ██║██║╚██████╔╝██║  ██║██║ ╚████║██║  ██╗
+-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042C53,50:185FA5,100:534AB7&height=220&section=header&text=Mrigank%20Singh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descSize=16&descColor=85B7EB&animation=fadeIn" />
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Full-Stack+Developer;Turning+raw+data+into+real+decisions;Python+%E2%80%A2+Pandas+%E2%80%A2+React+%E2%80%A2+OpenCV;Building+pipelines+that+matter)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrigank-singh-9215512a8/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mriganksingh7890@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishi-shut)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrigank-singh-9215512a8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mriganksingh7890@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rishi-shut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Rishi-shut&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishi-shut&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 🧬 Who Am I
+
+```python
+#!/usr/bin/env python3
+class Mrigank:
+  def **init**(self):
+    self.name      = "Mrigank Singh"
+    self.role      = "Data Analyst + Full-Stack Developer"
+    self.location  = "Delhi, India 🇮🇳"
+    self.stack     = ["Python", "Pandas", "NumPy", "React", "OpenCV", "Flask", "Node.js"]
+    self.databases = ["MySQL", "MongoDB"]
+    self.interests = ["Data Analytics 📊", "Machine Learning 🤖",, "Data Visualization 📈"]
+    self.hobbies   = ["Football ⚽", "Reading 📚", "Gaming 🎮"]
+    self.building  = "Data-driven solutions that turn insights into impact"
+
+  def get_status(self):
+      return "🟢 Open to opportunities"
+
+me = Mrigank()
+
+
+```
+
+---
+
+## 🔁 My Data Pipeline
+
+```text
+┌──────────┐    ┌──────────┐    ┌──────────┐    ┌────────────┐    ┌──────────┐
+│ COLLECT  │───▶│  CLEAN   │───▶│ ANALYSE  │───▶│ VISUALISE  │───▶│ INSIGHTS │
+│          │    │          │    │          │    │            │    │          │
+│ SQL      │    │ Pandas   │    │ EDA      │    │ Matplotlib │    │ Reports  │
+│ APIs     │    │ NumPy    │    │ Stats    │    │ Seaborn    │    │ Decisions│
+│ MongoDB  │    │ Missing  │    │ OpenCV   │    │ Plotly     │    │ Impact   │
+│ CSV      │    │ Values   │    │ ML       │    │ Dashboards │    │ Growth   │
+└──────────┘    └──────────┘    └──────────┘    └────────────┘    └──────────┘
+```
+
+
+---
+
+## 🗂️ Tech Universe
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 📊 Analytics & Data Science
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+### ⚙️ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+
+### 📚 Currently Exploring
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=flat-square)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=flat-square)
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Skill Radar
+
+```text
+Python / Pandas       ████████████████████  90%  ██ Expert
+Data Analysis         ██████████████████░░  88%  ██ Advanced
+SQL / Databases       ████████████████░░░░  80%  ██ Advanced
+Data Visualization    ███████████████░░░░░  78%  ██ Advanced
+JavaScript / React    ██████████████░░░░░░  74%  ██ Advanced
+Node.js / Flask       █████████████░░░░░░░  68%  ██ Proficient
+OpenCV                ████████████░░░░░░░░  62%  ██ Proficient
+Machine Learning      ███████████░░░░░░░░░  55%  ██ Learning
+AWS / Docker          ██████░░░░░░░░░░░░░░  25%  ██ Beginner
+```
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="195" src="https://github-readme-stats.shion.dev/api?username=Rishi-shut&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
+&nbsp;
+<img height="195" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rishi-shut&theme=tokyonight&hide_border=true&layout=compact&count_private=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Rishi-shut&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,100:042C53&height=120&section=footer"/>
+
+
+</div>
